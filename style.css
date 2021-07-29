@@ -70,3 +70,14 @@ body{
 i{
     color: #E76F51;
 }
+
+.upcommin-bike img{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.upcommin-bike img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    
+}
