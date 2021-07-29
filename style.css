@@ -57,3 +57,16 @@ body{
 .grayscal img{
     filter: grayscale(90%);
 }
+.client-img img{
+    width: 40%;
+    justify-content: center;
+}
+.client-img{
+   padding: 35px; 
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+i{
+    color: #E76F51;
+}
