@@ -44,5 +44,16 @@ body{
     font-size: 14px;
     line-height: 21px;
     border-bottom: 1px solid #E76F51 ;
-    border-bottom-width: 50px;
+    
+}
+.feture-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feture-img img{
+    width: 80%;
+}
+.grayscal img{
+    filter: grayscale(90%);
 }
